@@ -1,3 +1,3 @@
 # microfrontend-vite
 
-Blog for the microfrontend-vite project
+BE - Blog for the microfrontend-vite project
